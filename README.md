@@ -1,1 +1,1 @@
-# blog
+# https://blog.cclab.xyz
